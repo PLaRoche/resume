@@ -38,16 +38,16 @@ Edit `config.js` to put up your details
 
 ```javascript
 module.exports = {
-  siteTitle: 'Gatsby Starter Resume', // <title>
+  siteTitle: 'Patrick LaRoche', // <title>
   ...
-  firstName: 'Anubhav',
-  lastName: 'Srivastava',
+  firstName: 'Patrick',
+  lastName: 'LaRoche',
   // social
   socialLinks: [
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
+      url: 'https://github.com/plaroche',
     }
     ...
   ],

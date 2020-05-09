@@ -23,10 +23,16 @@ const IndexPage = () => (
             <a href={`mailto:${config.email}`}>{config.email}</a>
           </div>
           <p className="lead mb-5">
-            I am experienced in leveraging agile frameworks to provide a robust
-            synopsis for high level overviews. Iterative approaches to corporate
-            strategy foster collaborative thinking to further the overall value
-            proposition.
+                I am a software development leader, be a part of teams 2 through 25 + .I particularly enjoy early and growth stages organizations,
+                but have learnt that all stages of a corporations life are full of opportunities
+                for inovation and impactful change.
+                < br />
+                My passion lies in helping team optimize and perform,
+                while growing human connections to enable positive change.Having worked remote,
+                co - located and on prem, I focus on building channels transparent and open communication.I 'm an agilist, scrum, kanban, you name it.
+                < br />
+                 Oh and occasionally I just go
+                for a sail.
           </p>
           <div className="social-icons">
             {config.socialLinks.map(social => {
@@ -54,14 +60,7 @@ const IndexPage = () => (
             <div className="resume-content">
               <h3 className="mb-0">Senior Web Developer</h3>
               <div className="subheading mb-3">Intelitec Solutions</div>
-              <p>
-                Bring to the table win-win survival strategies to ensure
-                proactive domination. At the end of the day, going forward, a
-                new normal that has evolved from generation X is on the runway
-                heading towards a streamlined cloud solution. User generated
-                content in real-time will have multiple touchpoints for
-                offshoring.
-              </p>
+            <p></p>
             </div>
             <div className="resume-date text-md-right">
               <span className="text-primary">March 2013 - Present</span>
