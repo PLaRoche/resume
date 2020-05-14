@@ -57,7 +57,7 @@ export class Sidebar extends Component {
             offset={-300}
             className="navbar-nav"
           >
-            {tabs.map((tab, i) => {
+            {tabs.map((tab) => {
               const { href, content } = tab;
               return (
                 <li className="nav-item" key={href}>
