@@ -99,16 +99,6 @@ const IndexPage = () => (
                     growth.
                   </li>
                   <li>
-                    During business challenges triggered by the COVID-19
-                    Pandemic, initiated and implemented an internal training and
-                    certification process that successfully enabled team members
-                    to learn new tech stacks and skills that allowed them to
-                    join and contribute to other teams in Lixar&rsquo;s
-                    organization. The result: no layoffs and all team members
-                    actively and effectively contributing to projects across
-                    Lixar.
-                  </li>
-                  <li>
                     Initiated the concept of people coaching and isolating it
                     from project reporting in a corporate structure that has
                     fluid project team members due to the nature of service
@@ -118,7 +108,7 @@ const IndexPage = () => (
                   </li>
                 </ul>
                 <p>
-                  Lead remote culture initiator during a shift to work from home
+                  Lead a remote and continuos learning culture during a shift to work from home
                   pre-COVID, and formalized during the COVID-19 crisis.
                 </p>
                 <ul>
@@ -138,6 +128,15 @@ const IndexPage = () => (
                     policies around standups, asynchronous communication, and
                     cultural events to keep people connected and productive in
                     the challenging environment that is a pandemic.
+                  </li>
+                  <li>
+                    Implemented an internal training and
+                    certification process that successfully enabled team members
+                    to learn new tech stacks and skills that allowed them to
+                    join and contribute to other teams in Lixar&rsquo;s
+                    organization. The result: no layoffs and all team members
+                    actively and effectively contributing to projects across
+                    Lixar.
                   </li>
                 </ul>
               </p>
@@ -173,6 +172,12 @@ const IndexPage = () => (
                     executable epics and milestones for engineering, focusing on
                     lightweight processes that ensured successful delivery of
                     features while staying true to product vision.
+                  </li>
+                  <li>
+                    Owned the infrastructure architecture, deploying a scalable micro-service backend that had several
+                    iterations of improvements under my guidance and ownership.  Initial standard compute layout to 
+                    containerization which then led to kubernetes.   This also included an eventual 
+                    no downtime migration from AWS to Google Cloud.  All while supporting a CI/CD pipeline for the development team.
                   </li>
                 </ul>
                 <p>
@@ -226,12 +231,20 @@ const IndexPage = () => (
                     overseeing all tech department projects.
                   </li>
                   <li>
+                    Introduced the productization of technical offerings of the company, allowing
+                    the sales team to pitch variations of products we could make efficiently to clients
+                    to help improve quality, delivery time and margins.
+                  </li>
+                  <li>
                     Focus on Agile and lean methodologies while moving legacy
-                    technologies to the current state of the art.
+                    technologies to the current state of the art.  Rolled out and owned first for organization
+                    Scrum processes and toolings, bringing the agile approach to software development to an organization
+                    that typically had had waterfall or adhoc methods.
                   </li>
                   <li>
                     Lead the re-architecting of the web development stack and
-                    infrastructure stack.
+                    infrastructure stack. Legacy systems established over a decade were brought to modern
+                    RESTFull Api standards as well as deployment processes.
                   </li>
                 </ul>
               </p>
@@ -252,10 +265,21 @@ const IndexPage = () => (
                     market.
                   </li>
                   <li>
-                    Grew and managed the team to 10 people, 8 of whom were in
-                    engineering.
+                    Oversaw initial product design, architecture and implementation of a SaaS and
+                    on premise logging solution for clients and customers.  This included heuristic and 
+                    Machine Learning systems as well as large scale data collection and analysis pipelines.
                   </li>
-                  <li>Lead software architect and product manager.</li>
+                  <li>
+                   Focusing on how to differentiate our offerings from the space of logging as a service, 
+                   introduced then novel concepts of automatic anomaly detection, automatic signature certification
+                   as well as other first in class feature sets.
+                  </li>
+                  <li>
+                    Grew and managed the team to 10 people, 8 of whom were in
+                    engineering. Focused on people and talent fit over exact skill fit given the 
+                    nature of early stage startups and needing to be innovative and diverse in ability to
+                    deliver.
+                  </li>
                 </ul>
               </p>
             </div>
@@ -285,7 +309,7 @@ const IndexPage = () => (
               <p></p>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary"></span>
+              <span className="text-primary">August 2006 - March 2013</span>
             </div>
           </div>
 
