@@ -331,7 +331,7 @@ const IndexPage = () => (
             <div className="resume-content">
               <h3 className="mb-0">Dalhousie University</h3>
               <div className="subheading mb-3">
-                Batchelors in Computer Science
+                Bachelors in Computer Science
               </div>
             </div>
             <div className="resume-date text-md-right">
